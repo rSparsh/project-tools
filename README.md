@@ -1,9 +1,9 @@
 # project-tools
-flask script for GUI-based Nmap execution
+Flask script for GUI-based Nmap execution!
 
 Nmap: A popular reconnaisance tool, which allows user to scan a target IP with various types of scans like TCP (syn) scan, TCP connect scan, UDP scan, SCTP INIT scan, FIN scan, NULL scan, Xmas scan etc.
 
-In this project we have 
+In this project we have used Nmap python library to execute the below listed scans on a target system. 
   1. SYN-ACK Scan
   2. UDP Scan
   3. Comprehensive Scan
